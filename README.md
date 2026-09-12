@@ -76,35 +76,6 @@ My current reading journey focuses mainly on:
 
 ---
 
-# 🧠 What I'm Learning
-
-```text
-                 📚 READING
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │   🤖 AI Engineering │
-          └──────────┬──────────┘
-                     │
-                     ▼
-             🤖 Artificial
-             Intelligence
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │ 🔌 API Architecture │
-          └──────────┬──────────┘
-                     │
-                     ▼
-              🔌 APIs & Backend
-                     │
-                     ▼
-           🏗️ Software Architecture
-                     │
-                     ▼
-                🚀 BUILD
-
-
 ████████████████████████████████████████  2 / 2
                                       100%
 
