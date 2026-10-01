@@ -2,13 +2,11 @@
 
 # MY READING JOURNEY
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+library+%F0%9F%93%96;Read.+Learn.+Build.+%F0%9F%92%BB;One+book+at+a+time+%E2%9C%A8;Knowledge+becomes+code+%F0%9F%9A%80" alt="Typing Animation">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header">
 
-</div>
 
 ---
 
